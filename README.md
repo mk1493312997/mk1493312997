@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @mk1493312997 or bilibili小马先生灬
 - 👀 I am interested in Linux operations and I am also a Bilibili blogger
 - 🌱 I’m currently learning shell programming and Python programming, video editing, Japanese, anime illustration, and fitness.
-- 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ... 
+- 💞️ I’m looking to collaborate on ... I'm looking for a programming partner to work with
+- 📫 How to reach me ... bilibil小马先生灬
 
 <!---
 mk1493312997/mk1493312997 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -53,4 +53,4 @@ lycoris recoil が大好き！！！
           XX777XXXXXXX7X7X7X7X7X7X7X7Xr7SZZaSSXSS222S2a2.. .,:,i:iiii;i;i;;ri. :r;i;ii:,.,,;r77rX2S22222SSS222SZar;
          ::,:,,,::;;7XXXX7X7X7X7X7X7X7777rXa8Za22S2S2S2aZBS,:,,::,:::::::::i.  :i,:,,,:ir7XXXX7SaaZ2222S22ZZZaaX;;7
        :,;rXXXXX77;;iiir7X7X7X7X7X7X7X7X77;X00Z8ZZaaaZZ880B2rrii:,:::i:i:iii  ,;i::i;7XSXXXX7XrZ0088Za2aaZZ888;i;
-r7r7rrrXXXXX7XXXXXXXX7;;;77X7X7X7X7X7X7X77;7Z08880Z8Z8ZZ8BZXXXX7r;ii:i:i:i.  ,:r7XXSXX7X7X7X77XB088088Z8ZZZ802r
+
